@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Eduardo Costa",
+      "email": "edu@gmail.com",
+      "idade": 30
+    },
+    {
+      "id": "2",
+      "nome": "murilo pereira",
+      "email": "mup@gmail.com",
+      "idade": 17
+    },
+    {
+      "id": "wIFxP65bczM"
+    }
+  ],
+  "post": [
+    {
+      "Descricao": "Games Eduu",
+      "imagem": "https://i.pinimg.com/originals/a0/aa/da/a0aada5647668544852e704b70fd1359.jpg",
+      "qtdCurtidas": "900mi",
+      "id": "1"
+    },
+    {
+      "Descricao": "Games Eduu",
+      "imagem": "https://i.pinimg.com/originals/a0/aa/da/a0aada5647668544852e704b70fd1359.jpg",
+      "qtdCurtidas": "545mi",
+      "id": "RUgKT7oZS68"
+    }
+  ],
+  "fruta": [],
+  "jogos": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
