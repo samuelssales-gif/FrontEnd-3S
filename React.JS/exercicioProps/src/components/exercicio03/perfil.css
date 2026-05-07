@@ -1,0 +1,8 @@
+.card-perfil {
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(40, 21, 21);
+    border-radius: 5px;
+    padding: 20px;
+
+}
